@@ -182,14 +182,15 @@ nexus.exe /run
 
 
 
-- 发布代码库到nexus
+### 4.2发布代码库到nexus
 
 ```shell
 mvn clean deploy -DskipTests
 ```
 
-
+![image-20200523161804907](assets/image-20200523161804907.png)
 
 ## 5 参考文档
 
 1. https://www.jianshu.com/p/1674a6bc1c12
+
